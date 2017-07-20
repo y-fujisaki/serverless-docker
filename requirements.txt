@@ -1,9 +1,2 @@
 awscli
-beautifulsoup4
 boto3
-botocore
-python-dateutil
-python-lambda-local
-slackweb
-urllib3
-urlopen
