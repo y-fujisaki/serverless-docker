@@ -140,4 +140,4 @@ WORKDIR $project_dir
 RUN pip install -r requirements.txt
 
 # serverless frameworkをインストールする
-RUN npm install -g serverless
+#RUN npm install -g serverless
