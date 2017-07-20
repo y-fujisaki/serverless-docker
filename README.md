@@ -13,6 +13,8 @@ docker run -ti --rm --name sls -v ~/.aws:/root/.aws youukkari/sls-python3 bash
 
 
 ## ライブラリ(Python)
+
+```
 astroid==1.5.3
 awscli==1.11.108
 beautifulsoup4==4.6.0
@@ -51,3 +53,4 @@ urllib3==1.21.1
 urlopen==1.0.0
 virtualenv==15.1.0
 wrapt==1.10.10
+```
